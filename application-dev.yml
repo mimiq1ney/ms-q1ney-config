@@ -1,0 +1,3 @@
+m1:
+  config:
+    test: application-dev-m1.config.test
